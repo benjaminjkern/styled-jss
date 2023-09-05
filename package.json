@@ -18,7 +18,7 @@
     "flow:csrc": "flow-copy-source -i '**/tests/*' src lib",
     "flow:typed": "flow-typed install",
     "flow:stub": "flow-typed create-stub",
-    "release": "npm run build && git push --follow-tags && npm publish lib",
+    "release": "npm run build && git push --follow-tags && npm publish lib"
   },
   "repository": {
     "type": "git",
