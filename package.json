@@ -2,7 +2,7 @@
   "name": "styled-jss",
   "version": "2.2.3",
   "description": "Styled Components on top of JSS.",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "clean": "rimraf lib/*",
     "lint": "eslint --ext .jsx,.js src",
